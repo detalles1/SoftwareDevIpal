@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Mon Nov 11 18:04:00 EST 2024
+2.base=C\:\\Users\\detal\\OneDrive\\Desktop\\iPal\\RobotVoiceDemo2\\RobotVoiceDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Users\\detal\\OneDrive\\Desktop\\iPal\\RobotVoiceDemo2\\RobotVoiceDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\detal\\OneDrive\\Desktop\\iPal\\RobotVoiceDemo2\\RobotVoiceDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Users\\detal\\OneDrive\\Desktop\\iPal\\RobotVoiceDemo2\\RobotVoiceDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+2.set=ANDROID_RESOURCE
+4.base=C\:\\Users\\detal\\OneDrive\\Desktop\\iPal\\RobotVoiceDemo2\\RobotVoiceDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=C\:\\Users\\detal\\OneDrive\\Desktop\\iPal\\RobotVoiceDemo2\\RobotVoiceDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\common_title.xml
+7.set=ANDROID_RESOURCE
+count=8
+0.file=C\:\\Users\\detal\\OneDrive\\Desktop\\iPal\\RobotVoiceDemo2\\RobotVoiceDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+5.base=C\:\\Users\\detal\\OneDrive\\Desktop\\iPal\\RobotVoiceDemo2\\RobotVoiceDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=C\:\\Users\\detal\\OneDrive\\Desktop\\iPal\\RobotVoiceDemo2\\RobotVoiceDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Users\\detal\\OneDrive\\Desktop\\iPal\\RobotVoiceDemo2\\RobotVoiceDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+1.set=DEX
+7.base=C\:\\Users\\detal\\OneDrive\\Desktop\\iPal\\RobotVoiceDemo2\\RobotVoiceDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=C\:\\Users\\detal\\OneDrive\\Desktop\\iPal\\RobotVoiceDemo2\\RobotVoiceDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\detal\\OneDrive\\Desktop\\iPal\\RobotVoiceDemo2\\RobotVoiceDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\detal\\OneDrive\\Desktop\\iPal\\RobotVoiceDemo2\\RobotVoiceDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\detal\\OneDrive\\Desktop\\iPal\\RobotVoiceDemo2\\RobotVoiceDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+4.file=C\:\\Users\\detal\\OneDrive\\Desktop\\iPal\\RobotVoiceDemo2\\RobotVoiceDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\icon_back.png
+0.set=ANDROID_RESOURCE

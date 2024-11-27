@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <!-- Central Buttons -->
+    <LinearLayout
+        android:id="@+id/center_buttons"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:orientation="vertical">
+
+        <!-- ASR Button -->
+        <Button
+            android:id="@+id/btn_asr"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="ASR"
+            android:layout_marginTop="16dp" />
+
+        <!-- Android Button -->
+        <Button
+            android:id="@+id/btn_android"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Android"
+            android:layout_marginTop="10dp" />
+
+        <!-- API Button -->
+        <Button
+            android:id="@+id/btn_api"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="API"
+            android:layout_marginTop="10dp" />
+
+        <!-- Google Button -->
+        <Button
+            android:id="@+id/btn_google"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Google"
+            android:layout_marginTop="10dp" />
+    </LinearLayout>
+
+    <!-- Exit Button -->
+    <Button
+        android:id="@+id/btn_exit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Exit"
+        android:layout_alignParentEnd="true"
+        android:layout_centerVertical="true" />
+</RelativeLayout>

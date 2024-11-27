@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RobotVoiceDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="tts_input_tip">Please input content: </string>
+    <string name="tts_status">TTS Status: </string>
+    <string name="tts_speak">Speak</string>
+    <string name="tts_start_speaking">Start Speaking with requestId: </string>
+    <string name="tts_stop_speaking">Speaking ends with requestId: </string>
+    <string name="nlu_input_tip">Please input content: </string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RobotSystem</string>
+    <string name="ipal_robot">iPal Robot System</string>
+    <string name="motion_safe">Environment Safety Status</string>
+    <string name="touch_event">Touch Event</string>
+    <string name="sensor_event">Sensor Event</string>
+</resources>

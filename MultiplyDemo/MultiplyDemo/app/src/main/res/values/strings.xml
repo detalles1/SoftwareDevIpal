@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">MultipyApplication</string>
+
+        <string name="button_repeat">Repeat</string>
+        <string name="button_back">Back</string>
+        <string name="button_reset">Reset</string>
+        <string name="button_enter_answer">Enter Answer</string>
+
+        <string name="button_shuffle">Shuffle</string>
+        <string name="button_in_order">In Orden</string>
+        <string name="button_game">Game</string>
+
+        <!-- Button Texts -->
+        <string name="button_test_listen">Test Listen</string>
+        <string name="button_exit">Exit</string>
+
+        <string name="button1">1</string>
+        <string name="button2">2</string>
+        <string name="button3">3</string>
+        <string name="button4">4</string>
+        <string name="button5">5</string>
+        <string name="button6">6</string>
+        <string name="button7">7</string>
+        <string name="button8">8</string>
+        <string name="button9">9</string>
+        <string name="button10">10</string>
+
+
+
+
+
+</resources>

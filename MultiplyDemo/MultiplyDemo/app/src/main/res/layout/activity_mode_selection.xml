@@ -1,0 +1,67 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:background="#A8E6A3">
+
+    <!-- Back Button -->
+    <Button
+        android:id="@+id/btn_back"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:layout_margin="16dp"
+        android:text="@string/button_back"
+        android:textColor="#FFFFFF"
+        android:background="#FF8A80"
+        android:textSize="30sp"
+        android:padding="16dp" />
+
+    <!-- LinearLayout for Shuffle and In Order buttons -->
+    <LinearLayout
+        android:id="@+id/linear_buttons_top"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:orientation="horizontal">
+
+        <!-- Shuffle Button -->
+        <Button
+            android:id="@+id/btn_shuffle"
+            android:layout_width="213dp"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="16dp"
+            android:background="#4FC3F7"
+            android:padding="16dp"
+            android:text="@string/button_shuffle"
+            android:textColor="#FFFFFF"
+            android:textSize="40sp" />
+
+        <!-- In Order Button -->
+        <Button
+            android:id="@+id/btn_in_order"
+            android:layout_width="212dp"
+            android:layout_height="wrap_content"
+            android:background="#4FC3F7"
+            android:padding="16dp"
+            android:text="@string/button_in_order"
+            android:textColor="#FFFFFF"
+            android:textSize="40sp" />
+    </LinearLayout>
+
+    <!-- Game Button, positioned under the Shuffle and In Order buttons -->
+    <Button
+        android:id="@+id/btn_game"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/linear_buttons_top"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="24dp"
+        android:background="#FFCA28"
+        android:padding="16dp"
+        android:text="@string/button_game"
+        android:textColor="#FFFFFF"
+        android:textSize="40sp" />
+</RelativeLayout>
