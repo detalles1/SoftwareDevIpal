@@ -1,4 +1,0 @@
-#Mon Nov 11 18:03:59 EST 2024
-base.0=C\:\\Users\\detal\\OneDrive\\Desktop\\iPal\\RobotVoiceDemo2\\RobotVoiceDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
-renamed.0=classes.dex
-file.0=C\:\\Users\\detal\\OneDrive\\Desktop\\iPal\\RobotVoiceDemo2\\RobotVoiceDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
